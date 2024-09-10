@@ -4,7 +4,7 @@ title: About Me
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Hi, I'm Kyle, an undergraduate Computer Science student studying at [San Jose State University](https://www.sjsu.edu). I've kept a strong passion for coding and problem-solving since elementary school. I started with Logo and quickly advanced into Python, Java, and RobotC.
+Hi, I'm Kyle, an undergraduate Computer Science student studying at [San Jose State University](https://www.sjsu.edu). I've kept a strong passion for coding and problem-solving since elementary school. I started with <cite>Logo</cite> and quickly advanced into <cite>Python</cite>, <cite>Java</cite>, and <cite>RobotC</cite>.
 
 At SJSU, I'm eagerly expanding my knowledge of computer science and its mathematical applications. I thrive on the challenge of solving complex technical problems with creative logic, and find immense satisfaction in crafting unique solutions.
 
