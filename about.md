@@ -3,6 +3,8 @@ layout: page
 title: About Me
 ---
 
+<hr/>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Hi, I'm Kyle, an undergraduate Computer Science student studying at [San Jose State University](https://www.sjsu.edu). I've kept a strong passion for coding and problem-solving since elementary school. I started with <cite>Logo</cite> and quickly advanced into <cite>Python</cite>, <cite>Java</cite>, and <cite>RobotC</cite>.
 
@@ -13,3 +15,4 @@ Beyond the classroom, I'm a member of the [Software and Computer Engineering Soc
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 My journey in computer science is just starting but I'm led on by curiosity and a desire for continuous learning. I'm excited to tackle new challenges, contribute to innovative projects, and make the most of my tenure here!
 
+<hr/>
