@@ -40,8 +40,7 @@ logo: logo.png
 social:
   name: Kyle Wong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/wongywrongy
 google_site_verification: xxxxx
 lang: en
 
@@ -60,5 +59,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: Kyle Wong
-  url: https://github.com/vszhub/
+  url: https://github.com/wongywrongy
   email: kyle.t.wong@sjsu.edu
